@@ -12,27 +12,28 @@
   ### Pronouns - He/Him/His
   
   
-  I am fresher and completed by degree in **Electrical Engineering**:mortar_board:. I am into problem solving, backend Development. I also have my hands on technologies like Front-end and Machine Learning. I am currently learning Backend Development and Cloud. Feel free to reach out to me on LinkedIn (super active there)!
+I am a fresher and completed by degree in **Electrical Engineering**:mortar_board:. I am into Problem Solving, Backend Development. I also have my hands on technologies like <b>Front-end</b> and <b>Machine Learning</b>. I am currently learning <b>Backend Development and Cloud</b>. Feel free to reach out to me on LinkedIn (super active there)!
   
-  ### :1st_place_medal: Some of my acheivements:
-  
-  * 5 ⭐ at <a href = "https://www.hackerrank.com/shubhamverma2604" target="_blank">HackerRank</a>
-  * 500+ Questions on <a href = "https://leetcode.com/shubhamverma2604/" target="_blank">Leetcode</a>.
-  * Secured 1st place in College's Final Year Project.
- 
-  
-  #### 👨🏻‍💻 Languages and Tools: <br />
-  <code><img height="40" src="/images/python.png"></code>
-  <code><img height="40" src="/images/js.png"></code>
+### :1st_place_medal: Some of my acheivements:
 
- 
-  <code><img height="40" src="/images/css.png"></code>
-  <code><img height="40" src="/images/html.png"></code>
-  <code><img height="40" src="/images/Express.png"></code>
-  <code><img height="40" src="/images/git.png"></code>
-  <code><img height="40" src="/images/mongoDb.png"></code>
-  <code><img height="40" src="/images/nodejs.png"></code>
-  <code><img height="40" src="/images/1280px-React-icon.svg.png"></code>
+* 5 ⭐ at <a href = "https://www.hackerrank.com/shubhamverma2604" target="_blank">HackerRank</a>
+* 500+ Questions on <a href = "https://leetcode.com/shubhamverma2604/" target="_blank">Leetcode</a>.
+* Secured 1st place in College's Final Year Project.
+
+- 🔭 I’m currently working on different Backend Projects.
+- 💬 Ask me about python, <b>Ml, DL, Backend, DSA.</b>
+- <a href = "https://drive.google.com/file/d/1WJmwJ4dO7uD-SvA87Exb_8NK2qXPFdLh/view?usp=sharing" target="_blank"><b>RESUME</b></a>.
+  
+#### 👨🏻‍💻 Languages and Tools: <br />
+<code><img height="40" src="/images/python.png"></code>
+<code><img height="40" src="/images/js.png"></code>
+<code><img height="40" src="/images/css.png"></code>
+<code><img height="40" src="/images/html.png"></code>
+<code><img height="40" src="/images/Express.png"></code>
+<code><img height="40" src="/images/git.png"></code>
+<code><img height="40" src="/images/mongoDb.png"></code>
+<code><img height="40" src="/images/nodejs.png"></code>
+<code><img height="40" src="/images/1280px-React-icon.svg.png"></code>
 
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=shubham9471&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=shubham9471&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
