@@ -1,5 +1,5 @@
 
-<img align='right' src='Entry.gif' width='480"'>
+<img align='right' src='Entry.gif' width='400"'>
 
 # Shubham Verma
   
@@ -22,7 +22,6 @@
  
   
   #### 👨🏻‍💻 Languages and Tools: <br />
-  <code><img height="40" src="/images/bash.png"></code>
   <code><img height="40" src="/images/python.png"></code>
   <code><img height="40" src="/images/js.png"></code>
 
