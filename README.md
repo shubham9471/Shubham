@@ -1,7 +1,7 @@
 
 <img align='right' src='Entry.gif' width='400"'>
 
-# Shubham Verma
+# Shubham Verma 👋
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shubham-verma-011297167/)
   [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://shubham9471.github.io/ShubhamVerma/)
@@ -9,7 +9,7 @@
   [<img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="3.5%"/>](https://github.com/shubham9471)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/shubhamverma2604/)
   
-  ### Pronouns - He/Him/His
+### Pronouns - He/Him/His 
   
   
 I am a fresher and completed by degree in **Electrical Engineering**:mortar_board:. I am into Problem Solving, Backend Development. I also have my hands on technologies like <b>Front-end</b> and <b>Machine Learning</b>. I am currently learning <b>Backend Development and Cloud</b>. Feel free to reach out to me on LinkedIn (super active there)!
@@ -21,6 +21,7 @@ I am a fresher and completed by degree in **Electrical Engineering**:mortar_boar
 * Secured 1st place in College's Final Year Project.
 
 - 🔭 I’m currently working on different Backend Projects.
+- ⚡ I'm looking for an entry-level SDE roles/Backend Tech.
 - 💬 Ask me about python, <b>Ml, DL, Backend, DSA.</b>
 - <a href = "https://drive.google.com/file/d/1WJmwJ4dO7uD-SvA87Exb_8NK2qXPFdLh/view?usp=sharing" target="_blank"><b>RESUME</b></a>.
   
