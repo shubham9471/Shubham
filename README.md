@@ -8,6 +8,8 @@
   <a href="shubhamverma2604@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   [<img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="3.5%"/>](https://github.com/shubham9471)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/shubhamverma2604/)
+  [<img src="https://mpng.subpng.com/20180629/vue/kisspng-www-mevrouwpak-nl-advertising-graphic-design-insta-instagramm-5b3692f028e740.4061558515303032161676.jpg" width="3.5%"/>](https://www.instagram.com/shubham_9471/)
+  
   
 ### Pronouns - He/Him/His 
   
@@ -16,13 +18,13 @@ I am a fresher and completed by degree in **Electrical Engineering**:mortar_boar
   
 ### :1st_place_medal: Some of my acheivements:
 
-* 5 ⭐ at <a href = "https://www.hackerrank.com/shubhamverma2604" target="_blank">HackerRank</a>
+* 5 ⭐ on <a href = "https://www.hackerrank.com/shubhamverma2604" target="_blank">HackerRank</a>
 * 500+ Questions on <a href = "https://leetcode.com/shubhamverma2604/" target="_blank">Leetcode</a>.
 * Secured 1st place in College's Final Year Project.
 
 - 🔭 I’m currently working on different Backend Projects.
 - ⚡ I'm looking for an entry-level SDE roles/Backend Tech.
-- 💬 Ask me about python, <b>Ml, DL, Backend, DSA.</b>
+- 💬 Ask me about <b>Python, ML, DL, Backend, DSA.</b>
 - <a href = "https://drive.google.com/file/d/1WJmwJ4dO7uD-SvA87Exb_8NK2qXPFdLh/view?usp=sharing" target="_blank"><b>RESUME</b></a>.
   
 #### 👨🏻‍💻 Languages and Tools: <br />
