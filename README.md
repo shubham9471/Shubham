@@ -31,7 +31,7 @@
   <code><img height="40" src="/images/Express.png"></code>
   <code><img height="40" src="/images/git.png"></code>
   <code><img height="40" src="/images/mongoDb.png"></code>
-  <code><img height="40" src="/nodejs.png"></code>
+  <code><img height="40" src="/images/nodejs.png"></code>
   <code><img height="40" src="/images/1280px-React-icon.svg.png"></code>
 
   
