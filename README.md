@@ -1,7 +1,7 @@
 
-<img align='right' src='Entry.gif' width='400"'>
+<img align='right' src='Entry Pic.jpg' width='350", height = "200"'>
 
-# Shubham Verma 👋
+# Hi there👋 , I am Shubham
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shubham-verma-011297167/)
   [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://shubham9471.github.io/ShubhamVerma/)
