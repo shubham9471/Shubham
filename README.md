@@ -15,7 +15,7 @@
   
 ### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/> More about me:
   
-I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_board:. I am into Problem Solving and Backend Development. I also have my hands on technologies like <b>Front-end</b> and <b>Machine Learning</b>. I am currently learning <b>Backend Development and Cloud</b>. I have a working experience of 6 months as BDE at **ExtraMarks Education India Pvt Ltd**. As of now I am a fresher with respect to the IT sector, But looking for open doors to keep my foot in IT, as a Developer. Feel free to reach out to me on LinkedIn (super active there)!
+I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_board:. I am into Problem Solving and Backend Development. I also have my hands on technologies like <b>Front-end</b> and <b>Machine Learning</b>. I am currently learning <b>Backend Development and AWS S3 </b>. I have a working experience of 6 months as BDE at **ExtraMarks Education India Pvt Ltd**. As of now I am a fresher with respect to the IT sector, But looking for open doors to keep my foot in IT, as a Developer. Feel free to reach out to me on LinkedIn (super active there)!
   
 ### :1st_place_medal: Some of my acheivements:
 
