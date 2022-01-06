@@ -8,7 +8,7 @@
   <a href="shubhamverma2604@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   [<img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="3.5%"/>](https://github.com/shubham9471)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/shubhamverma2604/)
-  [<img src="https://mpng.subpng.com/20180629/vue/kisspng-www-mevrouwpak-nl-advertising-graphic-design-insta-instagramm-5b3692f028e740.4061558515303032161676.jpg" width="3.5%"/>](https://www.instagram.com/shubham_9471/)
+  [<img src="https://mpng.subpng.com/20180629/vue/kisspng-www-mevrouwpak-nl-advertising-graphic-design-insta-instagramm-5b3692f028e740.4061558515303032161676.jpg" width="3.5%"/>](https://www.instagram.com/___shubham96___/)
   
   
 ### Pronouns - He/Him/His 
