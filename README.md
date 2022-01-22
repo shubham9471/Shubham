@@ -26,7 +26,7 @@ I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_bo
 - 🔭 I’m currently working on different Backend Projects.
 - ⚡ I'm looking for an entry-level SDE /Backend Roles.
 - 💬 Ask me about <b>Python, ML, DL, Backend, DSA.</b>
-- <a href = "https://drive.google.com/file/d/1WJmwJ4dO7uD-SvA87Exb_8NK2qXPFdLh/view?usp=sharing" target="_blank"><b>RESUME</b></a>.
+- <a href = "https://drive.google.com/drive/folders/1hrbXZar6EKMkfdqCs3P2hkoe_0im3Nie?usp=sharing" target="_blank"><b>RESUME</b></a>.
   
 #### 👨🏻‍💻 Languages and Tools: <br />
 <code><img height="40" src="/images/python.png"></code>
