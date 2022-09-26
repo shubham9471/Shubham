@@ -23,7 +23,7 @@ I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_bo
 * 500+ Questions on <a href = "https://leetcode.com/shubhamverma2604/" target="_blank">Leetcode</a>.
 * Secured 1st place in College's Final Year Project.
 
-- ⚡ I’m currently working as SDE(MERN Developer) at Proactive For Her(Bengaluru). 
+- ⚡ I’m currently working as SDE(MERN Developer) at Amygb.ai(Bengaluru). 
 - 💬 Ask me about <b>Python, ML, DL, Backend, DSA.</b>
 - <a href = "https://drive.google.com/drive/folders/1hrbXZar6EKMkfdqCs3P2hkoe_0im3Nie?usp=sharing" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>.
   
