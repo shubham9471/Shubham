@@ -15,7 +15,7 @@
   
 ### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/> More about me:
   
-I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_board:. I am into Problem Solving and Backend Development. I also have my hands on technologies like <b>Front-end</b> and <b>Machine Learning</b>. I am currently learning <b>Backend Development and AWS S3 </b>. I have a working experience of 6 months as BDE at **ExtraMarks Education India Pvt Ltd**. As of now I am working as SDE(MERN Developer) at Proactive For Her(Bengaluru). Feel free to reach out to me on LinkedIn (super active there)!
+I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_board:. I am into Problem Solving and Backend Development. I also have my hands on technologies like <b>Front-end</b> and <b>Machine Learning</b>. I am currently learning <b>Backend Development and AWS S3 </b>. I have a working experience of 6 months as BDE at **ExtraMarks Education India Pvt Ltd**. As of now I am working as SDE at Amygb.ai. Feel free to reach out to me on LinkedIn (super active there)!
   
 ### :1st_place_medal: Some of my acheivements:
 
@@ -23,7 +23,7 @@ I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_bo
 * 500+ Questions on <a href = "https://leetcode.com/shubhamverma2604/" target="_blank">Leetcode</a>.
 * Secured 1st place in College's Final Year Project.
 
-- ⚡ I’m currently working as SDE(MERN Developer) at Amygb.ai(Bengaluru). 
+- ⚡ I’m currently working as SDE at Amygb.ai(Bengaluru). 
 - 💬 Ask me about <b>Python, ML, DL, Backend, DSA.</b>
 - <a href = "https://drive.google.com/drive/folders/1hrbXZar6EKMkfdqCs3P2hkoe_0im3Nie?usp=sharing" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>.
   
