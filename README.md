@@ -1,5 +1,5 @@
 
-<img align='right' src='Entry Pic.jpg' width='350", height = "200"'>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
 # Hi there👋 , I am Shubham
 <div align="center">
@@ -48,5 +48,5 @@ I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_bo
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham9471&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vedpaswan01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br />
+![](https://github-profile-trophy.vercel.app/?username=shubham9471&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br />
  If you find my work good, consider giving it a ⭐ to show some ❤️!
