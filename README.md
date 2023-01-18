@@ -30,18 +30,18 @@ I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_bo
 - 💬 Ask me about <b>Python, ML, DL, Backend, DSA.</b>
 - <a href = "https://drive.google.com/drive/folders/1hrbXZar6EKMkfdqCs3P2hkoe_0im3Nie?usp=sharing" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>.
   
-#### 👨🏻‍💻 Languages and Tools: <br />
-<code><img height="40" src="/images/python.png"></code>
-<code><img height="40" src="/images/js.png"></code>
-<code><img height="40" src="/images/css.png"></code>
-<code><img height="40" src="/images/html.png"></code>
-<code><img height="40" src="/images/Express.png"></code>
-<code><img height="40" src="/images/git.png"></code>
-<code><img height="40" src="/images/mongoDb.png"></code>
-<code><img height="40" src="/images/nodejs.png"></code>
-<code><img height="40" src="/images/1280px-React-icon.svg.png"></code>
+#### 👨🏻‍💻 Languages & Tech <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/> <br />
+<p>
+<img src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=Python&logoColor=white" width="130px" height="40px"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="130px" height="40px"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="130px" height="40px"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="130px" height="40px"/>
+<img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=NodeJs&logoColor=white" width="130px" height="40px"/>
+<img src="https://img.shields.io/badge/Express-green?style=for-the-badge&logo=Express&logoColor=white" width="130px" height="40px"/>
+<img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=MongoDb&logoColor=white" width="130px" height="40px"/> 
+<img src="https://img.shields.io/badge/REACTJS-1572B6?style=for-the-badge&logo=reactjs&logoColor=white" width="130px" height="40px"/>
+</p>
 
-  
   [![Stats](https://github-readme-stats.vercel.app/api?username=shubham9471&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=shubham9471&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
   
