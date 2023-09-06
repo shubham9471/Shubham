@@ -18,15 +18,15 @@
   
 ### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/> More about me:
   
-I am a **Coder** and completed my degree in **Electrical Engineering**:mortar_board:. I am into Problem Solving and Backend Development. I also have my hands on technologies like <b>Front-end</b> and <b>Machine Learning</b>. I am currently learning <b>Backend Development and AWS S3 </b>. I have a working experience of 6 months as BDE at **ExtraMarks Education India Pvt Ltd**. As of now I am working as SDE at Amygb.ai. Feel free to reach out to me on LinkedIn (super active there)!
+I am an **Electrical Engineering**:mortar_board: by degree with a passion for <b>coding</b>, particularly in the realm of <b>Problem-Solving and Backend Development</b>. My expertise extends to areas such as Front-end Development and Machine Learning, and I'm currently expanding my skills in Backend Development and AWS S3. At present, serving as a <b>Software Development Engineer (SDE) at Amygb.ai.</b> For those interested in connecting and engaging with me, <a href="https://www.linkedin.com/in/shubham-verma-011297167/">LinkedIn</a> is where you'll find me most active. Don't hesitate to reach out!
   
-### :1st_place_medal: Some of my acheivements:
+### :1st_place_medal: Some of my achievements:
 
 * 5 ⭐ on <a href = "https://www.hackerrank.com/shubhamverma2604" target="_blank">HackerRank</a>
 * 500+ Questions on <a href = "https://leetcode.com/shubhamverma2604/" target="_blank">Leetcode</a>.
 * Secured 1st place in College's Final Year Project.
 
-- ⚡ I’m currently working as SDE at Amygb.ai(Bengaluru). 
+- ⚡ I’m currently working as a SDE at Amygb.ai(Bengaluru). 
 - 💬 Ask me about <b>Python, ML, DL, Backend, DSA.</b>
 - <a href = "https://drive.google.com/drive/folders/1hrbXZar6EKMkfdqCs3P2hkoe_0im3Nie?usp=sharing" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>.
   
