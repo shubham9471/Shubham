@@ -5,6 +5,8 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
+
+  [![](https://visitcount.itsvg.in/api?id=shubham96&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shubham-verma-011297167/)
   [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://shubham9471.github.io/ShubhamVerma/)
